@@ -116,7 +116,7 @@ Testing the webserver.
     httpd.serve_forever()
 
 # OUTPUT:
-![alt text](<Screenshot (50).png>) 
+![alt text](screenshot.jpg)
 
 ![alt text](<Screenshot 2024-12-07 232039.png>)
 
